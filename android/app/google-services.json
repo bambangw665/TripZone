@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53943596385",
+    "firebase_url": "https://tripzone-b39fc.firebaseio.com",
+    "project_id": "tripzone-b39fc",
+    "storage_bucket": "tripzone-b39fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53943596385:android:3195132d565aeb655e8120",
+        "android_client_info": {
+          "package_name": "com.tripzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53943596385-rd65f88tesaj2e7louotsqpkhpa7571i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAYu45mO0Fo_a4CFvsxKvZhDd-tHpruA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53943596385-rd65f88tesaj2e7louotsqpkhpa7571i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
