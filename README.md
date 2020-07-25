@@ -1,6 +1,8 @@
-# tripzone
+# Tripzone
 
-A new Flutter application.
+Projet ini merupakan sebuah aplikasi dimana untuk memberikan rekomendasi wisata yang ada di tiap daerah. untuk versi 1.0 ini hanya rekomendasi di daerah Purwokerto saja.
+
+project ini menggunakan SDK flutter, Database Firebase
 
 ## Getting Started
 
